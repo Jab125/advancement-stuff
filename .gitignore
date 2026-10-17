@@ -1,0 +1,15 @@
+*
+!*/
+!**/
+!**.bbmodel
+!.gitignore
+!**.png
+!**.java
+!**.blend
+!**.jpg
+!**.jpeg
+!**.gltf
+!.root
+.idea
+.vscode
+.DS_Store
